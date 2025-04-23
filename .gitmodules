@@ -14,3 +14,7 @@
 	path = mslearn-advanced-copilot
 	url = git@github.com:Fabr1ce/mslearn-advanced-copilot.git
 	branch = main
+[submodule "copilot-codespaces-vscode"]
+	path = copilot-codespaces-vscode
+	url = git@github.com:Fabr1ce/copilot-codespaces-vscode.git
+	branch = main
