@@ -1,0 +1,20 @@
+[submodule "mslearn-copilot-codespaces-python"]
+	path = mslearn-copilot-codespaces-python
+	url = git@github.com:Fabr1ce/mslearn-copilot-codespaces-python.git
+	branch = main
+[submodule "mslearn-copilot-codespaces-javascript"]
+	path = mslearn-copilot-codespaces-javascript
+	url = git@github.com:Fabr1ce/mslearn-copilot-codespaces-javascript.git
+	branch = main
+[submodule "skills-copilot-codespaces-vscode"]
+	path = skills-copilot-codespaces-vscode
+	url = git@github.com:Fabr1ce/skills-copilot-codespaces-vscode.git
+	branch = main
+[submodule "mslearn-advanced-copilot"]
+	path = mslearn-advanced-copilot
+	url = git@github.com:Fabr1ce/mslearn-advanced-copilot.git
+	branch = main
+[submodule "copilot-codespaces-vscode"]
+	path = copilot-codespaces-vscode
+	url = git@github.com:Fabr1ce/copilot-codespaces-vscode.git
+	branch = main
